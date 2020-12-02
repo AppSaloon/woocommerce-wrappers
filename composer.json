@@ -1,0 +1,23 @@
+{
+  "name": "appsaloon/woocommerce-wrappers",
+  "description": "wrappers for woocommerce",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+	{
+	  "name": "AppSaloon",
+	  "email": "wp.dev@appsaloon.be"
+	}
+  ],
+  "require": {
+  },
+  "require-dev": {
+	"wpackagist-plugin/woocommerce":"^4.1"
+  },
+  "repositories": [
+	{
+	  "type": "composer",
+	  "url": "https://wpackagist.org"
+	}
+  ]
+}
