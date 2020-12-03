@@ -1,6 +1,6 @@
 <?php
 
-namespace appsaloon\packages\woocommerce;
+namespace appsaloon\packages\woocommerce\class_wrappers;
 
 use Exception;
 use WC_Cart;
